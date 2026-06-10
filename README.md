@@ -9,10 +9,10 @@ https://www.tinkercad.com/things/8b71x4x3rka-copy-of-servo/editel?returnTo=https
 
 ## Guia de Operação
 Conecte o Arduino, abra o Monitor Serial (baud 9600) e envie:
-- **U**: Move para cima (Up)
-- **D**: Move para baixo (Down)
-- **O**: Abre a garra
-- **C**: Fecha a garra
+- **U**: Move para cima (Up) ( servo 1)
+- **D**: Move para baixo (Down) (servo 1)
+- **O**: Abre a garra (servo 2)
+- **C**: Fecha a garra (servo 2)
 
 ## Especificações Técnicas
 - **Fonte**: 6V via fonte de bancada simulada.
