@@ -1,8 +1,8 @@
 # Projeto: Braço Robótico de Coleta (Microgravidade)
 
 ## Integrantes
-- Lucas Speranzini 
-- João Pedro Vieira
+- RM 98297 Lucas Speranzini 
+- RM 99805 João Pedro Vieira
 
 ## Acesso ao Simulador
 https://www.tinkercad.com/things/8b71x4x3rka-copy-of-servo/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard
